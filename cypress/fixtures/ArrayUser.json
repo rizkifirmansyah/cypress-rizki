@@ -1,0 +1,22 @@
+[
+    {
+        "id": 36,
+        "username": "riz36",
+        "firstName": "riz",
+        "lastName": "way",
+        "email": "rizway@gmail.com",
+        "password": "rizriz",
+        "phone": "088813",
+        "userStatus": 1
+    },
+    {
+        "id": 37,
+        "username": "riz37",
+        "firstName": "riz",
+        "lastName": "way",
+        "email": "rizway@gmail.com",
+        "password": "rizriz",
+        "phone": "088813",
+        "userStatus": 1
+      }
+]

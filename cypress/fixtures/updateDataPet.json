@@ -1,0 +1,10 @@
+{
+    "petId" : 34,
+    "categoryId" : 3,
+    "categoryName" : "Dogs",
+    "petName" : "Piriri",
+    "photoUrls" : ["new photo"],
+    "tagsId" : 4,
+    "tagsName" : "Dog",
+    "statusPet" : "available"
+}

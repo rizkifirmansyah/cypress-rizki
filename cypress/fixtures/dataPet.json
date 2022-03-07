@@ -1,0 +1,11 @@
+{
+    "petId" : 34,
+    "status" : "sold",
+    "categoryId" : 3,
+    "categoryName" : "Dogs",
+    "petName" : "Cihua Hua",
+    "photoUrls" : ["String"],
+    "tagsId" : 4,
+    "tagsName" : "Dog",
+    "statusPet" : "available"
+}
